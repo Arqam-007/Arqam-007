@@ -44,3 +44,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arqam-007&show_icons=true&locale=en" alt="Arqam-007" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arqam-007&" alt="Arqam-007" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arqam-007&show_icons=true&locale=en&layout=compact" alt="Arqam-007" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arqam-007/Arqam-007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arqam-007/Arqam-007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Arqam-007/Arqam-007/output/github-snake.svg" />
+</picture>
