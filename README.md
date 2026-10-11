@@ -1,11 +1,16 @@
 <h1>Hi 👋, I'm Arqam</h1>
-<p>- 👨‍💻 Software Engineer passionate about building practical digital products.</p>
-<p>- 🌐 Web Development: React, Next.js, Node.js, and full-stack applications.</p>
-<p>- 📱 Mobile Development: Flutter, React Native, and cross-platform apps.</p>
-<p>- ⚙️ Backend & Databases: REST APIs, authentication, and database design.</p>
-<p>- ☁️ DevOps & Cloud: Docker, Kubernetes, CI/CD, and cloud infrastructure.</p>
-<p>- 🎮 Game Development: Unity and interactive experiences.</p>
-<p>- 🚀 Focused on clean code, scalable architecture, and continuous learning.</p>
+<h3>👨‍💻 About Me</h3>
+
+<ul>
+  <li>💻 <strong>Software Engineer</strong> passionate about building reliable, scalable, and user-focused digital products.</li>
+  <li>🌐 <strong>Web Development:</strong> Modern web applications, SaaS platforms, and full-stack solutions.</li>
+  <li>📱 <strong>Mobile Development:</strong> Cross-platform applications with Flutter and React Native.</li>
+  <li>⚙️ <strong>Backend Engineering:</strong> REST APIs, database architecture, and secure authentication systems.</li>
+  <li>☁️ <strong>DevOps &amp; Cloud:</strong> CI/CD automation, Docker, Kubernetes, and cloud infrastructure.</li>
+  <li>🎮 <strong>Game Development:</strong> Interactive 2D and 3D experiences using Unity.</li>
+  <li>🤖 <strong>AI Integration:</strong> Building intelligent features into modern applications.</li>
+  <li>🚀 <strong>My Approach:</strong> Clean code, thoughtful architecture, practical problem-solving, and continuous improvement.</li>
+</ul>
 
 
 
